@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+
+header{
+	background: #48cccc;
+	color: #fff;
+	height: 50px;
+}
+.header_left{
+width: 50%;
+float: left;
+}
+.header_right{
+width: 50%;	
+float: right;
+}
+#salirsession{
+	text-align: center;
+}
+
+#btn-salirsession {
+	background-color: #e02f0f; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 10px;
+	text-decoration: none;
+	align-items: center;
+	justify-content: center;
+  }

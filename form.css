@@ -1,0 +1,22 @@
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 150vh;
+background: #000;
+}
+
+.wrapper{
+padding: 20px;
+background:#c6c2c2;
+width: 350px;
+min-height: 410px;
+display: inline-grid;
+}
+
+.form-group{
+    margin: 10px 0px 10px 0px;
+}
+
+
