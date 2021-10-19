@@ -38,7 +38,7 @@ if(!isset($_COOKIE["userCookie"]) && (!isset($_COOKIE["userToken"]))){
     <h1><b><?php echo htmlspecialchars($user_id); ?></b></h1>
     </div>
     <p id="salirsession">
-        <button id="btn-salirsession"><a style="text-decoration:none" href="logout.php" class="btn btn-danger">Salir de la session</a></button>
+        <button id="btn-salirsession"><a style="text-decoration:none" href="logout.php" >Salir de la session</a></button>
     </p>
 
 

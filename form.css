@@ -4,12 +4,12 @@ display: flex;
 justify-content: center;
 align-items: center;
 height: 150vh;
-background: #000;
+background: #52CCCA;
 }
 
 .wrapper{
 padding: 20px;
-background:#c6c2c2;
+background:#845895;
 width: 350px;
 min-height: 410px;
 display: inline-grid;
