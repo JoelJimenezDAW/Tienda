@@ -14,7 +14,7 @@ function comprobarToken($user_id, $token_id){
             setcookie("userCookie","", time() - 3600, "/");
             setcookie("userToken", "", time() - 3600, "/"); 
 // Te redirecciona a el login 
-            header("location: usuarios/login.php"); 
+            header("location: login.php"); 
         }
     } catch (Exception $ex) {
         //echo $ex->getMessage();
